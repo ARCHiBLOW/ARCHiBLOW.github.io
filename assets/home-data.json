@@ -1,0 +1,64 @@
+{
+  "docTitle": "ARCHiBLOW - Mobilier et décoration design",
+  "products": [
+    {
+      "ref": "MT100",
+      "slug": "tivilia-mt100-meuble-tv-bois-de-chene-latte",
+      "title": "Tivilia MT100",
+      "subTitle": "Meuble TV en bois de chêne latté",
+      "price": 3999,
+      "salePrice": 2999,
+      "image": "https://archiblow.github.io/assets/demo/3.jpeg"
+    }
+  ],
+  "metas": [
+    {
+      "name": "title",
+      "content": "ARCHiBLOW - Mobilier et décoration design"
+    },
+    {
+      "name": "description",
+      "content": "Spécialisé dans la décoration du meuble, ARCHiBLOW vous propose des articles uniques de qualité fait main (handmade) à des prix incroyables."
+    },
+    {
+      "name": "keywords",
+      "content": "décoration design, Handmade, fait main, meubles, table basse, décoration, design, salon, bureau, création bois, habillage bois, bois massif"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:title",
+      "content": "ARCHiBLOW - Mobilier et décoration design"
+    },
+    {
+      "property": "og:description",
+      "content": "Spécialisé dans la décoration du meuble, ARCHiBLOW vous propose des articles uniques de qualité fait main (handmade) à des prix incroyables."
+    },
+    {
+      "property": "og:url",
+      "content": "https://archiblow.com"
+    },
+    {
+      "property": "og:image",
+      "content": "https://archiblow.github.io/assets/demo/home.jpg"
+    },
+    {
+      "property": "og:image:secure_url",
+      "content": "https://archiblow.github.io/assets/demo/home.jpg"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/jpeg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    }
+  ]
+}
